@@ -34,6 +34,9 @@ my first Kaggle challenge
 
 # Log  
   **20220211**  
-  <li>nb001  
+  - nb001
+   - 基本統計量確認
+   - 欠損値確認：年齢は補完必要
+   - 相関関係可視化  
     
 
