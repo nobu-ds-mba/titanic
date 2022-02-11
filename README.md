@@ -1,2 +1,2 @@
 # titanic_git
-# my first Kaggle challenge
+my first Kaggle challenge
