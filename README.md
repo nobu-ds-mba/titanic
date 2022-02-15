@@ -1,3 +1,5 @@
+###　一人git 練習：リポ作って⇨クローンして⇨branch作って⇨ファイル修正して⇨addでstagingして⇨commitして⇨(一応)pullして⇨pushして⇨pull request出して⇨mergeして⇨ローカルリポでpull  
+
 ### ReadMeショートカット，コード  
 [参考リンク](https://atmarksharp.v01.jp/posts/markdown-cheat-sheet.html)  
 ・**太字**：Command + b  
